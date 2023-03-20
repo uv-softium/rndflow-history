@@ -1,10 +1,13 @@
 #!/usr/bin/env python
 from rndflow import job
 from numpy import linspace, sin
+import time
 
 globals().update(job.load())
 
 y = sin(x)
+
+time.sleep(2)
 
 job.save_package(
     label='sin',

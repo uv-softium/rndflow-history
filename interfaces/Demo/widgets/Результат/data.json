@@ -2,13 +2,11 @@
   "type": "packageFile",
   "config": {
     "node": "results",
-    "regexp": "^.*\\.plt$"
+    "regexp": "result.plt"
   },
   "width": {
-    "lg": 7,
-    "md": 8,
-    "xs": 12
+    "xs": 6
   },
-  "position": 5,
+  "position": 3,
   "help_position": "top-right"
 }

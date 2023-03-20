@@ -1,5 +1,5 @@
 {
-  "container": "rndflow/job.py",
+  "container": "rep.rndflow.com/rndflow/job.py:latest",
   "script": "./run.py",
   "req_memory": "256M",
   "req_cores": 1,

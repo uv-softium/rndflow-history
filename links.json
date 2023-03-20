@@ -23,6 +23,13 @@
     "mapping": {}
   },
   {
+    "src_id": "make_reference",
+    "dst_id": "reference",
+    "type": "push",
+    "package_filter": "",
+    "mapping": {}
+  },
+  {
     "src_id": "merge",
     "dst_id": "plot_results",
     "type": "push",

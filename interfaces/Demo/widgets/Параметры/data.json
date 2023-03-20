@@ -5,10 +5,8 @@
     "attach": false
   },
   "width": {
-    "lg": 3,
-    "md": 6,
-    "xs": 12
+    "xs": 4
   },
-  "position": 3,
+  "position": 1,
   "help_position": "top-right"
 }

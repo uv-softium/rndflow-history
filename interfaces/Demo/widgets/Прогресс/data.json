@@ -1,0 +1,31 @@
+{
+  "type": "progress",
+  "config": {
+    "steps": [
+      {
+        "icon": null,
+        "node": "generate",
+        "label": "Исходные данные",
+        "description": ""
+      },
+      {
+        "icon": null,
+        "node": "merge",
+        "label": "Расчёт",
+        "description": ""
+      },
+      {
+        "icon": null,
+        "node": "results",
+        "label": "Результат",
+        "description": ""
+      }
+    ],
+    "vertical": true
+  },
+  "width": {
+    "xs": 2
+  },
+  "position": 2,
+  "help_position": "top-right"
+}

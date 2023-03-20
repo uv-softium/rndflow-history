@@ -1,0 +1,11 @@
+{
+  "type": "markdown",
+  "config": {
+    "text": "# Описание проекта\n\nДетальное описание проекта\nВ несколько строк"
+  },
+  "width": {
+    "xs": 12
+  },
+  "position": 0,
+  "help_position": "top-right"
+}
