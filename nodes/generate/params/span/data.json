@@ -1,0 +1,15 @@
+{
+  "label": "Span",
+  "position": 1,
+  "type": "number",
+  "width": {
+    "md": 6,
+    "xs": 12
+  },
+  "default_value": 2,
+  "config": {
+    "max": 10,
+    "min": 1,
+    "suffix": "π"
+  }
+}

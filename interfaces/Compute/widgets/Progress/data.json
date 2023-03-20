@@ -1,0 +1,39 @@
+{
+  "type": "progress",
+  "config": {
+    "steps": [
+      {
+        "icon": "mdi-creation",
+        "node": "generate",
+        "label": "Generate",
+        "description": "Generating linear vector x...<div><br></div>"
+      },
+      {
+        "icon": "mdi-cogs",
+        "node": "cos",
+        "label": "Compute",
+        "description": "Computing sin(x) and cos(x)..."
+      },
+      {
+        "icon": "mdi-chart-bell-curve",
+        "node": "plot_results",
+        "label": "Plot",
+        "description": "Plotting the results..."
+      },
+      {
+        "icon": "mdi-file-chart-outline",
+        "node": "results",
+        "label": "Done",
+        "description": "All done!"
+      }
+    ],
+    "vertical": true
+  },
+  "width": {
+    "lg": 3,
+    "md": 4,
+    "xs": 12
+  },
+  "position": 4,
+  "help_position": "top-right"
+}

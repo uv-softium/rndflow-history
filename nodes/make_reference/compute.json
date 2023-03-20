@@ -1,0 +1,7 @@
+{
+  "container": "rndflow/job.py:latest",
+  "script": "./run.py",
+  "req_memory": "100M",
+  "req_cores": 1,
+  "req_minutes": 0
+}

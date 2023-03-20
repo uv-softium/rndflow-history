@@ -1,0 +1,11 @@
+{
+  "type": "markdown",
+  "config": {
+    "text": "Consectetur hic harum ipsa architecto rerum in Nam quos deserunt quis ur dolor sit? Beatae dolor dignissimos necessitatibus velit nam? Quos quam quas totam velit ex Omnis repellendus ipsum consequatur?\n\n$$\n\\begin{gathered}\n\\int_{\\Omega}{\\mu \\nabla _w\\mathbf{u}_h\\cdot \\nabla\n    _w\\mathbf{v}}-\\int_{\\Omega}{p_h\\left( \\nabla _w\\cdot \\mathbf{v}\n    \\right)}=\\int_{\\Omega}{\\mathbf{f}\\cdot R_T\\left( \\mathbf{v} \\right)} \\\\\n+\\int_{\\partial \\Omega _N}{p_N\\mathbf{n}\\cdot \\mathbf{v}},\\text{ }\n    \\forall \\mathbf{v}=\\left\\{ \\mathbf{v}_0,\\mathbf{v}_b \\right\\} \\in\n    V_{h}^{0,\\partial\\Omega_D}, \\\\\n\\int_{\\Omega}{\\left( \\nabla _w\\cdot \\mathbf{u}_h \\right) q=0},\\text{ }\n    \\forall q\\in W_h\n\\end{gathered}\n$$\n\nDolor impedit quidem aut optio laboriosam, vitae. Aliquam porro inventore dent odit quis cumque voluptatem Placeat veniam blanditiis animi iusto culpa piente! Recusandae sint doloribus cumque soluta vitae. Numquam perferendis."
+  },
+  "width": {
+    "xs": 12
+  },
+  "position": 0,
+  "help_position": "top-right"
+}

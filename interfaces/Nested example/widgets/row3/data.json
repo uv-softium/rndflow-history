@@ -1,0 +1,9 @@
+{
+  "type": "text",
+  "config": {},
+  "width": {
+    "xs": 12
+  },
+  "position": 0,
+  "help_position": "top-right"
+}

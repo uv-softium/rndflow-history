@@ -1,0 +1,13 @@
+{
+  "label": "Size",
+  "position": 1,
+  "type": "number",
+  "width": {
+    "md": 6,
+    "xs": 12
+  },
+  "default_value": 101,
+  "config": {
+    "min": 10
+  }
+}

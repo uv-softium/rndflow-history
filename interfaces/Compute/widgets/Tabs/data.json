@@ -1,0 +1,15 @@
+{
+  "type": "tabs",
+  "config": {
+    "interfaces": [
+      "Introduction",
+      "Nested example"
+    ]
+  },
+  "width": {
+    "lg": 8,
+    "xs": 12
+  },
+  "position": 1,
+  "help_position": "top-right"
+}

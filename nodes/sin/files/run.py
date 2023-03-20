@@ -1,0 +1,20 @@
+#!/usr/bin/env python
+from rndflow import job
+from numpy import linspace, sin
+
+globals().update(job.load())
+
+y = sin(x)
+
+job.save_package(
+    label='sin',
+    fields=dict(
+        size=size,
+        span=span,
+        job_id=job_id
+        ),
+    files={
+        'x': x,
+        'y': y
+        }
+    )

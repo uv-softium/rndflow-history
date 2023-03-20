@@ -1,0 +1,11 @@
+{
+  "type": "markdown",
+  "config": {
+    "text": "## Header\n\n::: info\n$e=mc^2$\n:::\n\n```\ndef hello():\n    print(\"hello world\")\n```"
+  },
+  "width": {
+    "xs": 12
+  },
+  "position": 0,
+  "help_position": "top-right"
+}

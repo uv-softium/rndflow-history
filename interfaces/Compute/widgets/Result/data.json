@@ -1,0 +1,14 @@
+{
+  "type": "packageFile",
+  "config": {
+    "node": "results",
+    "regexp": "^.*\\.plt$"
+  },
+  "width": {
+    "lg": 3,
+    "md": 8,
+    "xs": 12
+  },
+  "position": 5,
+  "help_position": "top-right"
+}
