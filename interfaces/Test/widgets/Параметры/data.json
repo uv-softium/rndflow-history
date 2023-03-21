@@ -1,0 +1,12 @@
+{
+  "type": "uploadPackage",
+  "config": {
+    "node": "generate",
+    "attach": false
+  },
+  "width": {
+    "xs": 4
+  },
+  "position": 1,
+  "help_position": "top-right"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "markdown",
+  "config": {
+    "text": "# First Demo Project\n\nПодробное описание проекта с картинками.\nИ графиками\n\n::: info\nПример информационного блока\n$$\nc = \\sqrt{x^2 + y^2}\n$$\n:::\n"
+  },
+  "width": {
+    "xs": 12
+  },
+  "position": 0,
+  "help_position": "top-right"
+}

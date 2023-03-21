@@ -1,0 +1,12 @@
+{
+  "type": "nodePackages",
+  "config": {
+    "node": "generate",
+    "ignoreMaster": true
+  },
+  "width": {
+    "xs": 12
+  },
+  "position": 4,
+  "help_position": "top-right"
+}

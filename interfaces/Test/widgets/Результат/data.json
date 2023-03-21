@@ -1,0 +1,12 @@
+{
+  "type": "packageFile",
+  "config": {
+    "node": "results",
+    "regexp": "result.plt"
+  },
+  "width": {
+    "xs": 6
+  },
+  "position": 3,
+  "help_position": "top-right"
+}
